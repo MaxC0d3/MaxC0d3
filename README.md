@@ -9,4 +9,4 @@
 
 ### Visit my web site and learn more about me 😜
 
-[MaxC0d3 portfolio](https://portfolio-maxc0d3.vercel.app/)
+[MaxC0d3 portfolio](https://portfolio-maxc0d3.vercel.app/){:target="_blank"}
