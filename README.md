@@ -3,6 +3,9 @@
 <!--
 **MaxC0d3/MaxC0d3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+![](https://i.ibb.co/ww0Fny4/dinosaurio.png)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
