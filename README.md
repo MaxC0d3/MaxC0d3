@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Img](https://raw.githubusercontent.com/MaxC0d3/MaxC0d3/main/banner.png)
+![Img](https://raw.githubusercontent.com/MaxC0d3/MaxC0d3/main/banner_maxc0d3.png)
 
 <!--
 **MaxC0d3/MaxC0d3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
