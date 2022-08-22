@@ -4,7 +4,7 @@
 ### I am a software development technician, passionate about web development.
 
 - 🔭 I’m currently working on html, css, javascript, react, typescript, git.
-- 🌱 I’m currently learning nodejs & graphql
+- 🌱 I’m currently learning nodejs 
 - 💬 Ask me about web development
 
 ### Visit my web site and learn more about me 😜
