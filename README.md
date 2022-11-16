@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=15&duration=3000&pause=500&color=ADBAC7&vCenter=true&width=435&height=15&lines=html%2C+css%2C+javascript%2C+reactjs;typescript%2C+git%2C+vtex+io%2C+scss)
 
-- 🌱 I’m currently learning golang, nextjs & web3
+- 🌱 I’m currently learning golang & web3
 - 💬 Ask me about web development
 
 <img width="220" src="https://78.media.tumblr.com/35d4ef4447e0112f776b629bffd99188/tumblr_mk4gf8zvyC1s567uwo1_500.gif" />
